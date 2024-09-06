@@ -29,7 +29,6 @@ ul + ul {
     display: grid;
     grid: 1fr 2fr / 2.5fr 1.5fr;
     padding: 1rem;
-    row-gap: 1rem;
 }
 
 form{
