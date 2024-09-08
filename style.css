@@ -18,6 +18,7 @@ li{
 ul{
     display: grid;
     row-gap: 14px;
+    padding-inline-start: 16px;
 }
 
 ul + ul {
